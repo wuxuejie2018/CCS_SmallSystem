@@ -1,0 +1,1 @@
+"./MainFunction/main.obj" "../CMD/28335_RAM_lnk.cmd" -l"libc.a" 
